@@ -6,6 +6,7 @@ function App() {
 
   return (
    <>
+   <h className="text-6xl">Hello</h>
 
 
    </>
